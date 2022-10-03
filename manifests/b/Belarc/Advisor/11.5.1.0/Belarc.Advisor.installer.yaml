@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2022/Aug/29
+# Automatically updated by the winget bot at 2022/Sep/22
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
 
 PackageIdentifier: Belarc.Advisor
@@ -14,6 +14,6 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x86
   InstallerUrl: https://downloads.belarc.com/advisor/advisorinstaller.exe
-  InstallerSha256: 0117A9EDE76B4D0EA6F58F89ED16364B11540CA0588E89AE10ECEF19F572398F
+  InstallerSha256: 6B41005367FB85940B70BFF836A3ECCCDD21569ED08EE89F868695484BBB0DAF
 ManifestType: installer
 ManifestVersion: 1.0.0
