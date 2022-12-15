@@ -1,4 +1,4 @@
-# Created with YamlCreate.ps1 v2.1.3 using InputObject 🤖 $debug=QUSU.7-2-6
+# Automatically updated by the winget bot at 2022/Dec/13
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.2.0.schema.json
 
 PackageIdentifier: Neovim.Neovim.Nightly
@@ -7,11 +7,11 @@ InstallerLocale: en-US
 MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Scope: machine
-ReleaseDate: 2022-10-11
+ReleaseDate: 2022-12-12
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.msi
-  InstallerSha256: 64DBE1AB77F95B9A55CA78380270E71893BD9E39AF34539F68440B8BE0EAA00B
-  ProductCode: '{6FAC96C5-CF99-4ADE-B097-AF2E820E6286}'
+  InstallerSha256: 117394A55D5C74C214FCFE1F32602B2F14CB303F3E324266C924AADB5A4764C6
+  ProductCode: '{DD2991F9-AF00-404D-96C9-4BA320D1BD88}'
 ManifestType: installer
 ManifestVersion: 1.2.0

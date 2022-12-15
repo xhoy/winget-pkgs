@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2022/Oct/10
+# Automatically updated by the winget bot at 2022/Oct/19
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.2.0.schema.json
 
 PackageIdentifier: Bopsoft.Listary
@@ -19,6 +19,6 @@ ReleaseDate: 2022-05-25
 Installers:
 - Architecture: x86
   InstallerUrl: https://www.listary.com/download/Listary.exe
-  InstallerSha256: B9AEEC86CF11187817ACA50804D423D2F61DD8049FB2BC2E1B0397F0C246C600
+  InstallerSha256: E73438A015A4519EBDCBC428F9E12C5B591279E22EDF8D78908D1CE0CA815922
 ManifestType: installer
 ManifestVersion: 1.2.0
