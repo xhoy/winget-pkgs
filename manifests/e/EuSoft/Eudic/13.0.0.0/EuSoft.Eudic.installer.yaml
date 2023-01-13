@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2022/Nov/12
+# Automatically updated by the winget bot at 2023/Jan/13
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.2.0.schema.json
 
 PackageIdentifier: EuSoft.Eudic
@@ -21,7 +21,7 @@ FileExtensions:
 Installers:
 - Architecture: x64
   InstallerUrl: https://static.frdic.com/pkg/eudic_win.exe
-  InstallerSha256: 197A1D9F3C34AB21AAECBCD7806C279A87C036F597F03596E53472214D4A3C82
+  InstallerSha256: D481F0725390061DDABE72DAE8A6B064A113C32ECE5B2577E867337AE4EDEE6E
   ProductCode: eudic
 ManifestType: installer
 ManifestVersion: 1.2.0
